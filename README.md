@@ -28,7 +28,7 @@ Nous lui proposons une solution basée sur le cloud Azure, permettant de :
 - **Power BI** : Visualisation des données pour des analyses approfondies.
 
 ## 🏛️ Architecture de la Solution
-![Architecture](images\achitecture.png)
+   ![Architecture](images\achitecture.png)
 
 L'architecture repose sur une collecte de données via IoT Hub, leur traitement avec Stream Analytics, 
 le stockage des données dans Azure Blob Storage, et leur analyse avec des modèles de Machine Learning. Les résultats sont ensuite visualisés dans Power BI.
